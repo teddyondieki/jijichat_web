@@ -1,3 +1,3 @@
 # Jijichat Web #
 
-Website for Jijichat to handle registration.
+Website for Jijichat authentication and user profile management.
